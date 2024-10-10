@@ -9,3 +9,4 @@ Language and tools that were used are:
 - Vanilla CSS (Cascading Style Sheets)
 - HTML 5 (Hypertext Markup Language)
 - jQuery
+- mySQL
